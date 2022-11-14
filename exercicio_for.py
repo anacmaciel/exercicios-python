@@ -1,2 +1,2 @@
-for rodada in range(11,1,-1):
+for rodada in range(10):
     print(rodada)
